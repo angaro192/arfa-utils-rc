@@ -1,0 +1,26 @@
+{
+  "name": "arfa-utils-rc",
+  "version": "1.0.0",
+  "description": "Pacotes úteis para formatação de números brasileiros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angaro192/arfa-utils-rc.git"
+  },
+  "keywords": [
+    "brasil",
+    "real",
+    "money",
+    "dinheiro",
+    "arfasystems"
+  ],
+  "author": "ArfaSystems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angaro192/arfa-utils-rc/issues"
+  },
+  "homepage": "https://github.com/angaro192/arfa-utils-rc#readme"
+}
